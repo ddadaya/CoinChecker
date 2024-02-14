@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CoinChecker</string>
+    <string name="symbols_template">%s / %s</string>
+    <string name="updateTime">Last update: %s</string>
+    <string name="avg_price_template">Current price: %s</string>
+    <string name="min_price_template">Minimum price/day: %s</string>
+    <string name="max_price_template">Maximum price/day: %s</string>
+    <string name="last_market_template">Last market: %s</string>
+</resources>
